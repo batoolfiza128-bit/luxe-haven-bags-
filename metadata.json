@@ -1,0 +1,6 @@
+{
+  "name": "Luxe Haven — Maison de Haute Maroquinerie",
+  "description": "Exquisite handcrafted luxury handbags, fine leather goods, and maison collections with full e-commerce experience and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
